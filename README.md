@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ali7887
-- 👀 I'm still learning and researching in IT/Computer field
+- 👀 I'm still learning and researching in IT & Computer field
 - 🌱 I'm IT Specialist , Expert in Web designing (wordpress, html, css) , Experience with Cloud Computing (AWS) & Python
 - 💞️ I’m looking to collaborate on web desingning, cloud computing....
 - 📫 How to reach me alikiani78@gmail.com
