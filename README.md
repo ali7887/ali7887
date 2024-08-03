@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ali7887
-- 👀 I'm still learning and researching in IT & Computer field
-- 🌱 I'm IT Specialist , Expert in web development (wordpress, html, css, JavaScript, React, Bootstrap, Python)  
-- 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me  [linkedin.com/in/alikiani78](https://www.linkedin.com/in/alikiani78/), https://alikiani.Co
+Passionate front-end developer with full-stack capabilities. I specialize in crafting responsive, user-friendly web experiences using modern technologies.
+Core Skills
 
-<!---
-ali7887/ali7887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Front-end: HTML5, CSS3, JavaScript, React, Next.js, Vue.js
+* Styling: Bootstrap, Sass, Tailwind CSS
+* Back-end: Node.js, PHP, Python
+* Databases: MySQL
+* CMS: WordPress (custom themes, plugins, and core functionality)
+
+Additional Expertise
+
+- RESTful APIs and GraphQL
+- Web performance optimization
+- SEO best practices
+- Unit testing and CI/CD workflows
+- Server management (cPanel, Plesk, DirectAdmin)
+
+Always eager to learn and contribute to the developer community. Feel free to check out my contributions or reach out for collaborations!
