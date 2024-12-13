@@ -1,18 +1,19 @@
-Passionate front-end developer with full-stack capabilities. I specialize in crafting responsive, user-friendly web experiences using modern technologies.
-Core Skills
+Hi, I'm Ali 🙋‍♂️
+I’m a Front-end Developer with over a decade of experience in web development, specializing in WordPress, JavaScript, PHP, React, Blockchain, Web3, and Website Security & Performance Optimization.
 
-* Front-end: HTML5, CSS3, JavaScript, React, Next.js, Vue.js
-* Styling: Bootstrap, Sass, Tailwind CSS
-* Back-end: Node.js, PHP, Python
-* Databases: MySQL
-* CMS: WordPress (custom themes, plugins, and core functionality)
+Throughout my career in Software Engineering, I've worked with various programming languages, front-end frameworks, and libraries. I have a deep understanding of WordPress, ranging from core functionality to custom plugins and theme development. I’m also skilled at optimizing websites for performance and security, ensuring seamless and secure user experiences.
 
-Additional Expertise
+My Key Skills:
+Frontend Development: HTML5, CSS3, PHP, JavaScript, React, MySQL
+WordPress Expertise: Custom plugins, themes, and eCommerce solutions
+Website Security & Optimization: SEO, performance optimization, and security implementation
+Server Management: Linux, cPanel, Plesk
+Highlighted Projects:
+Here are some of the projects I’ve contributed to on GitHub:
 
-- RESTful APIs and GraphQL
-- Web performance optimization
-- SEO best practices
-- Unit testing and CI/CD workflows
-- Server management (cPanel, Plesk, DirectAdmin)
+https://technoleap.my – A project that showcases my React and WordPress skills.
+[Project 2 Link] – This repo highlights my Blockchain development experience.
+Feel free to check out my repositories to see my code in action. When I'm not coding, I enjoy playing guitar 🎸, practicing yoga 🧘‍♂️, and exploring spirituality ☯️🕉.
 
-Always eager to learn and contribute to the developer community. Feel free to check out my contributions or reach out for collaborations!
+Let’s collaborate to bring your digital ideas to life!
+You can reach me at info@AliKiani.co
