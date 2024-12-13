@@ -12,7 +12,9 @@ Highlighted Projects:
 Here are some of the projects I’ve contributed to on GitHub:
 
 https://technoleap.my – A project that showcases my React and WordPress skills.
-[Project 2 Link] – This repo highlights my Blockchain development experience.
+https://github.com/ali7887/eWalletHub – This repo highlights my Blockchain development experience.
+
+
 Feel free to check out my repositories to see my code in action. When I'm not coding, I enjoy playing guitar 🎸, practicing yoga 🧘‍♂️, and exploring spirituality ☯️🕉.
 
 Let’s collaborate to bring your digital ideas to life!
