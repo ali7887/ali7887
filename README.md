@@ -1,5 +1,5 @@
 Hi, I'm Ali 🙋‍♂️
-I’m a Front-end Developer with over a decade of experience in web development, specializing in WordPress, JavaScript, PHP, React, Blockchain, Web3, and Website Security & Performance Optimization.
+I’m a Web Developer with over a decade of experience in web development, specializing in WordPress, JavaScript, PHP, React, Blockchain, Web3, and Website Security & Performance Optimization.
 
 Throughout my career in Software Engineering, I've worked with various programming languages, front-end frameworks, and libraries. I have a deep understanding of WordPress, ranging from core functionality to custom plugins and theme development. I’m also skilled at optimizing websites for performance and security, ensuring seamless and secure user experiences.
 
