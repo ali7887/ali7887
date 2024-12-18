@@ -6,7 +6,9 @@ Throughout my career in Software Engineering, I've worked with various programmi
 My Key Skills:
 
 • WordPress Expertise: Custom plugins, themes
+
 • Frontend Development: HTML5, CSS3, PHP, JavaScript, React, MySQL
+
 • Engineered decentralized blockchain solutions into WordPress websites
 
 
