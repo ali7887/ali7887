@@ -1,25 +1,15 @@
-Hi, I'm Ali 🙋‍♂️
-I’m a Web Developer with over a decade of experience in web development, specializing in WordPress, JavaScript, PHP, React, Blockchain, Web3.
+<h1 align="center">Hi 👋, I'm Ali Kiani</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-Throughout my career in Software Engineering, I've worked with various programming languages, front-end frameworks, and libraries. I have a deep understanding of WordPress, ranging from core functionality to custom plugins and theme development.
+- 👨‍💻 All of my projects are available at [alikiani.co](alikiani.co)
 
-My Key Skills:
+- 📫 How to reach me **alkikiani78@gmail.com**
 
-• WordPress Expertise: Specialized in developing custom plugins and themes, optimizing functionality, and enhancing user experience.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-• Frontend Development: Proficient in HTML5, CSS3, PHP, JavaScript, React, and MySQL, with a focus on creating responsive and user-friendly interfaces.
-
-• Blockchain Integration: Engineered decentralized blockchain solutions seamlessly integrated into WordPress websites, enhancing security, privacy, and scalability.
-
-
-Highlighted Projects:
-Here are some of the projects I’ve contributed to on GitHub:
-
-https://technoleap.my – A project that showcases my React and WordPress skills.
-https://github.com/ali7887/eWalletHub – This repo highlights my Blockchain development experience.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-Feel free to check out my repositories to see my code in action. When I'm not coding, I enjoy playing guitar 🎸, practicing yoga 🧘‍♂️, and exploring spirituality ☯️🕉.
-
-Let’s collaborate to bring your digital ideas to life!
-You can reach me at info@AliKiani.co
