@@ -67,6 +67,6 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/alikiani78" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" /></a>
-  <a href="https://instagram.com/alikiani7887" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" /></a>
+  <a href="https://instagram.com/alikiani7887" target="blank"><img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" /></a>
   <a href="https://fb.com/ali.kiani.73" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" /></a>
 </p>
