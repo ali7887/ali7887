@@ -12,7 +12,7 @@
 - 🎯 Front-End Developer with **10+ years** of experience building modern web interfaces  
 - 💻 Specialized in **React.js, Next.js, TypeScript, Tailwind CSS**  
 - 🚀 Passionate about building **responsive, high-performance** UIs with clean code  
-- 🌐 Website: [alikiani.co](https://alikiani.co)  
+- 🌐 Website: [alikiani.co](https://alikiani.vercel.app/)  
 - 📫 Contact me: **alkikiani78@gmail.com**  
 
 ---
