@@ -11,3 +11,25 @@
 
 🌐 Portfolio: https://alikiani.vercel.app/  
 📫 Contact: alikiani78@gmail.com
+
+### 🛠️ Tech Stack
+
+#### Frontend
+Next.js · React · TypeScript · Tailwind CSS · Framer Motion
+
+#### AI & LLM
+LangChain · OpenAI API · RAG Pipelines · Vector Search
+
+#### Backend & Infrastructure
+Node.js · PostgreSQL · MongoDB · Docker · Vercel
+
+#### Real-Time Systems
+WebSockets · SSE · Streaming Interfaces
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/alikiani78" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+</p>
