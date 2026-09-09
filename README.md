@@ -19,7 +19,7 @@
 Next.js · React · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · Framer Motion · Three.js
 
 #### AI & LLM
-LangChain · OpenAI API · Claude API · RAG Pipelines · Vector Search · Embedding Workflows · Prompt Engineering · Streaming Interfaces
+OpenAI API · Claude API · RAG Pipelines · Vector Search · Embedding Workflows · Prompt Engineering · Streaming Interfaces . UnSloth · FineTuning LLM Models . 
 
 #### Backend & Infrastructure
 Node.js · Express.js · PostgreSQL · MongoDB · MongoDB Atlas Vector Search · REST APIs · Docker · Git · Vercel
@@ -28,7 +28,7 @@ Node.js · Express.js · PostgreSQL · MongoDB · MongoDB Atlas Vector Search ·
 WebSockets · SSE · Streaming Interfaces · Offline-first Architecture
 
 #### AI Workflow & Emerging Systems
-LangGraph · Agentic Workflows · MCP Protocol · Edge AI
+Orchestrartion . Deep Agents . Agentic AI . LangGraph · Agentic Workflows · MCP Protocol · Edge AI . LangChain · LangSmith 
 
 ---
 
